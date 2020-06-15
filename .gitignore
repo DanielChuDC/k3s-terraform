@@ -29,3 +29,8 @@ override.tf.json
 # example: *tfplan*
 
 .DS_Store
+
+### Any sshkey
+sshkey_name*
+
+.vscode
